@@ -121,3 +121,30 @@ a {
 .navbar i {
     font-size: 1.3rem
 }
+
+.hero {
+    height: 300px;
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.hero-sec {
+    background-color: white;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-left: 225px;
+    padding-right: 225px;
+    font-size: .95rem;
+}
+
+.hero-sec a {
+    background-color: transparent;
+    padding-left: 5px;
+    color: #007185;
+}
