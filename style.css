@@ -188,3 +188,32 @@ a {
     height: 350px;
     width: 300px;
 }
+
+.footer1 {
+    height: 50px;
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: .9rem;
+}
+
+.footer2 {
+    height: 400px;
+    background-color: #131a22;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.footer2-1 p {
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+.footer2-1 a {
+    background-color: #131a22;
+    padding: 0px;
+}
