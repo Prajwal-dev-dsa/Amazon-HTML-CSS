@@ -217,3 +217,20 @@ a {
     background-color: #131a22;
     padding: 0px;
 }
+
+.footer3 {
+    height: 100px;
+    background-color: #0f1111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid white;
+}
+
+.logo2 {
+    background-image: url(amazon_logo.png);
+    height: 40px;
+    width: 100px;
+    background-size: cover;
+    padding-bottom: 10px;
+}
