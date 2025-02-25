@@ -234,3 +234,11 @@ a {
     background-size: cover;
     padding-bottom: 10px;
 }
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid white;
+}
