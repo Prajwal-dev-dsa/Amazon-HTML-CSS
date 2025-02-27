@@ -250,3 +250,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.border2 {
+    border: 3px solid transparent;
+}
+
+.border2:hover {
+    border: 3px solid orange;
+    border-radius: 10px;
+}
